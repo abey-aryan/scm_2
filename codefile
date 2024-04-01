@@ -1,1 +1,9 @@
 This is the file to create merge conflict.
+<<<<<<< HEAD
+=======
+
+
+This file is in another branch!!
+
+We are here to create merge conflict!!
+>>>>>>> origin/new_branch
